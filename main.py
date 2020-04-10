@@ -8,6 +8,7 @@ def main():
     # learn_dictionary_func(True)
     # learn_if_elif_else(True)
     # learn_loops(True)
+    # uradhura
 
 
 def learn_loops(isLearning):
